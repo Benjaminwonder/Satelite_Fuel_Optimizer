@@ -1,6 +1,6 @@
 # Space Mission Resource Manager
 
-A Java-based system for optimizing satellite resources, designed for aerospace applications. This project demonstrates problem-solving with data structures and algorithms, inspired by LeetCode, and integrates Physics 1 principles (e.g., Δv for orbital maneuvers). Built to prepare for technical interviews at aerospace and tech companies like SpaceX and Tesla.
+A Java-based system for optimizing satellite resources, designed for aerospace applications. This project demonstrates problem-solving with data structures and algorithms, inspired by LeetCode, and integrates Physics 1 principles (e.g., Δv for orbital maneuvers). 
 
 ## Fuel Optimizer Module
 
